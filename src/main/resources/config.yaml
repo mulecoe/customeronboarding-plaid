@@ -18,7 +18,7 @@ sysApi:
     
   awsS3:
     host: "storage-process-api.sg-s1.cloudhub.io"
-    savePDF: "/Documentsupload"
+    savePDF: "/Documentsupload" 
     
   salesforce:
     host: "customeronboarding-salesforce-api.sg-s1.cloudhub.io"
